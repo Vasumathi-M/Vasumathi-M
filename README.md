@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech Artificial Intelligence & Data Science at AIHT
-- 🔭 Currently building: A Web-based Soft Skill Enhancement Application & Online Auction             Platform using BlockChain
+- 🔭 Currently building: A Web-based Soft Skill Enhancement Application & Online Auction Platform using BlockChain
 - 💬 Ask me about: Python · JavaScript · Smart Contracts · Git · DSA  
 - 🌱 Learning: DSA · GraphQL · MERN
 - 💡Interested in: BlockChain · Web Dev · AI-Driven Tools · Developer Productivity 
@@ -23,7 +23,7 @@
 
 ### 📊 GitHub Stats 
 
-![GitHub Stats][![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasumathi-m&bg_color=121212&color=f4faf6&line=07ed60&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasumathi-m&bg_color=121212&color=f4faf6&line=07ed60&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
