@@ -21,9 +21,9 @@
 ---
 
 
-### 📊 GitHub Stats (optional)
+### 📊 GitHub Stats 
 
-![GitHub Stats]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasumathi-m&bg_color=121212&color=f4faf6&line=07ed60&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Stats][![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vasumathi-m&bg_color=121212&color=f4faf6&line=07ed60&point=fdfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
