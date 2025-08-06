@@ -36,3 +36,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Vasumathi26?theme=light&font=Noto%20Serif%20Tamil)
 
 ---
+
+## 👨‍💻 Coding Profiles
+
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/svasumadhuams)
+
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-1A7F2E?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vasumathi1726)
