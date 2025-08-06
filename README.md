@@ -39,6 +39,9 @@
 
 ## 👨‍💻 Coding Profiles
 
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/svasumadhuams)
+### 🚀 Platforms
 
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-1A7F2E?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vasumathi1726)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5⭐_Problem_Solving-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/svasumadhuams)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-250+_Problems_Solved-1A7F2E?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/vasumathi1726)
+
